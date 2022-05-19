@@ -19,7 +19,7 @@
   ### State Table:
   ![State Table](State-Table.svg)
   
-  Transition Table:
+  ### Transition Table:
   ![Transition Table](Transition-Table.svg)
    
   Transition Equations:
