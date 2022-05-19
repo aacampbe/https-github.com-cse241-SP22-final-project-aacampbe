@@ -4,10 +4,10 @@
 ## Design Problem
   The simulation will need to output two traffic signals from two roads the country road and the highway and each traffic signal could either be red or green which in the context of the simulation will be represented as 0 and 1 and in order to do that the state of the sensors which will be represented as the inputs will change from time to time in order to get the corresponding traffic signals. Each of the following sensors: the weather sensor (responsible for telling if it is snowing or not), the sensor enabler (responsible for being the overall sensor and in activation with the counting sensor), and the counting sensor (responsible for telling how many vehicles are passing through an intersection) have different behavior and from that behavior the traffic signals can be found. One behavior is when the sensor enabler is off and or the counting sensor is off then the country road traffic signal is red. Also, another behavior is if the weather sensor is on then the sensor enabler and the counting sensor will be off as well otherwise the counting sensor and sensor enabler will always be on. Lastly, the traffic signals for both of the roads cannot both be red.
 ## Design Development
-  State Diagram:
+  ### State Diagram:
   ![State Diagram](IMG-0421.svg)
 
-  State Assignments:
+  ### State Assignments:
     A=000
     B=001
     C=010
@@ -16,7 +16,7 @@
     F=101
     G=110
     H=111
-  State Table:
+  ### State Table:
   ![State Table](State-Table.svg)
   
   Transition Table:
