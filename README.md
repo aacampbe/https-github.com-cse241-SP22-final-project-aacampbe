@@ -27,6 +27,7 @@
 
   
 ## Bill of Materials
+
     - D-Flip Flops
     - Resistors
     - MyDAQ
