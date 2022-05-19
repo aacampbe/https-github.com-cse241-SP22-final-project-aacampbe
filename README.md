@@ -29,7 +29,6 @@
 ## Bill of Materials
 
 - D-Flip Flops
-- Or IC
 - Resistors
 - MyDAQ
 - Wires
