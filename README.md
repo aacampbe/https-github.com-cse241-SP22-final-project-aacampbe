@@ -23,7 +23,7 @@
   ![Transition Table](Transition-Table.svg)
    
   Transition Equations:
-  ![Transition Equations](http://url/to/img.png)
+
 
   
 ## Bill of Materials
