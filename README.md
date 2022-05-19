@@ -29,10 +29,12 @@
 ## Bill of Materials
 
 - D-Flip Flops
+- Or IC
 - Resistors
 - MyDAQ
 - Wires
-- Not IC
+- And IC
+- Clock
 
 
 ## Physical Implementation and Testing
