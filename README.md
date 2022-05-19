@@ -28,12 +28,10 @@
   
 ## Bill of Materials
 
-    - D-Flip Flops
-    - Resistors
-    - MyDAQ
-    - Wires
-    - Not IC
-    - Item
+* Item
+* Item
+- Item
+- Item
 
 
 ## Physical Implementation and Testing
