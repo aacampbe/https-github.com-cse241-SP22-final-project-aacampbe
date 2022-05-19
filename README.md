@@ -21,10 +21,6 @@
   
   ### Transition Table:
   ![Transition Table](Transition-Table.svg)
-   
-  Transition Equations:
-
-
   
 ## Bill of Materials
 
